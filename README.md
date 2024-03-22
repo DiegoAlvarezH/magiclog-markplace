@@ -2,6 +2,9 @@
 
 Creación de una plataforma multimedia basada en Node.js y React.
 
+Despliegue Frontend https://65fdebbcbeabdc5fa49ee515--splendorous-nougat-00fbb9.netlify.app/
+Despliegue Backend 
+
 ## Backend - NodeJs
 
 (IMPORTANTE: por compatibilidad con Mongo/Mongoose utilizar version node 16.13.2)
