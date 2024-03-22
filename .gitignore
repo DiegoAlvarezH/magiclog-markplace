@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.template
+pnpm-lock.yaml
+docker-compose.yml
+package-lock.json
+babel.config.js
